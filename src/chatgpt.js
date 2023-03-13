@@ -1,4 +1,4 @@
-const API_KEY = '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';
+const API_KEY = '';
 
 async function sendMessage(message) {
   // Send a POST request to the ChatGPT API with the user's message
